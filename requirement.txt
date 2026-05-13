@@ -3,3 +3,7 @@ pandas
 psycopg2-binary
 scikit-learn
 python-dotenv
+seaborn
+catboost
+xgboost
+mlflow
